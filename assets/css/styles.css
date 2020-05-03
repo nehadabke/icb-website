@@ -12,6 +12,8 @@ html {
 body {
   font-family: 'Montserrat', sans-serif;
   color: white;
+  font-size: 14px;
+  line-height: 28px;
 }
 
 section {
